@@ -13,7 +13,9 @@ Then It will print
         by J. Matta
         (c) November 2022
 
-        Type 'jlock.py -h' or 'jlock.py -help' for a list of available commands.
+        Type 'jlock.py -h' or 'jlock.py -help'
+
+for a list of available commands.
 
 For more information please type "python jlock.py -h or -help on the command prompt.
 
