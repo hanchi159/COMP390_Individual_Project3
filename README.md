@@ -6,7 +6,7 @@ Course: COMP390-003
 
 How to run this program? Just clone this Repository. Open the 'command prompt' and go to the python project folder location and type
 
-Type python jlock.py
+	Type 'python jlock.py' or 'jlock.py'
 
 Then It will print 
         Welcome to JLOCK!
